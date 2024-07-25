@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51992621601', '👑 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 - Creador 👑', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', false],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍¨💫', true],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'], 
-  ['51992621601'],  
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'], 
-  ['51992621601'], 
-  ['51992621601']
+  ['+59891623808', '👑 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 - Creador 👑', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', true],
+  ['+59891623808', '💫𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 💫', false],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈💫', true],
+  ['+59891623808', '💫 𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈¨💫', true],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'], 
+  ['+59891623808'],  
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'],
+  ['+59891623808'], 
+  ['+59891623808'], 
+  ['+59891623808']
 ];
 
-global.suittag = ['51992621601'];
-global.prems = ['51992621601'];
+global.suittag = ['+59891623808'];
+global.prems = ['+59891623808'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.wm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.titulowm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.titulowm2 = `𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍`
-global.igfg = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
+global.author = '𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈';
+global.wm = '𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈';
+global.titulowm = '𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈';
+global.titulowm2 = `𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈`
+global.igfg = '𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖`;
-global.gt = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖';
-global.mysticbot = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖';
-global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
-global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
+global.wm2 = `${dia} ${fecha}\n𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 🤖`;
+global.gt = '𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 🤖';
+global.mysticbot = '𝐁𝐎𝐓 𝐃𝐄 𝐉𝐀𝐕𝐈 🤖';
+global.md = 'https://www.instagram.com/dark__souls.oficial';
+global.mysticbot = 'https://www.instagram.com/dark__souls.oficial';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '51992621601';
+global.nomorown = '+59891623808';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
